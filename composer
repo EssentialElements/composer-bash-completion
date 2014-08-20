@@ -55,3 +55,4 @@ _composer()
     return 0
 } &&
 complete -F _composer composer
+complete -F _composer composer.phar
